@@ -1,3 +1,3 @@
 # simple server with C++
 
-https://www.notion.so/iromero42madrid/Network-Programming-Personal-Notes-English-Highly-recommended-3ea99a6926eb4247968a69c2cf26e8e9
+https://www.notion.so/Webserv-3dd3eed69ad1451aae45515b7fbbb38b
